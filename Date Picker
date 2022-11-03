@@ -1,0 +1,5 @@
+#Convert a range object to a list and output it.
+a = int(input())
+b = int(input())
+for i in range(a,b):
+    print(i)
